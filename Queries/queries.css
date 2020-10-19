@@ -1,0 +1,448 @@
+
+@media  (max-width: 990px){
+
+  html,body
+  {
+      width: 100%;
+      margin: 0px;
+      padding: 0px;
+      overflow-x: hidden;
+  }
+
+.nav-link{
+  font-size: 1.8rem;
+}
+
+.name{
+  font-size: 9rem;
+  position: relative;
+    top: 540px;
+}
+
+.aka{
+  font-size: 3rem;
+  position: relative;
+    top: 540px;
+}
+
+.hello{
+
+font-size: 4rem;
+
+}
+
+.intro{
+
+  font-size: 3rem;
+}
+
+h2{
+  font-size: 2rem;
+}
+
+h3{
+  font-size: 2.8rem;
+}
+
+h5{
+font-size: 2.4rem;
+
+}
+
+  html,body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat';
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+
+  }
+
+  .top{
+    font-size: 1.6rem;
+    color: #11999E;
+    padding-bottom: 20px;
+  }
+
+
+.MENU {
+position: relative;
+left: -50px;
+  font-size: 3rem;
+  color:#66BFBF;
+  margin-left: -150%;
+}
+
+.topcontainer{
+  height: 100rem;
+}
+.mountain{
+  position:absolute;
+  top: 71rem;
+  right: 9%;
+  width: 80%;
+}
+
+
+.Sunshine {
+  position: absolute;
+  right: 210px;
+  bottom: 190px;
+  width: 30%;
+}
+
+.index-menu{
+  width: 50%;
+  padding: 2rem 0rem;
+}
+.index-dropper{
+  font-size: 1.8rem;
+}
+
+
+
+  .profileboy3{
+      height: 130px;
+      width: 130px;
+      position: relative;
+      right: 50px;
+      z-index: 3;
+    }
+
+
+  .nav-link {
+      font-size: 2rem;
+        padding-top: 9%;
+      padding-bottom: 9%;
+      margin-left: 12%;
+      text-align: left;
+  }
+
+
+
+
+
+  .cloud1{
+
+  margin-right: 60%;
+    z-index: -1;
+
+  }
+
+  .cloud2{
+    margin-left: -27%;
+    width: 20%;
+    z-index: -1;
+  }
+
+
+
+  p{
+    font-size: 2.3rem;
+  }
+
+.profileboy2{
+  width: 60%;
+}
+
+
+.development{
+width: 60%;
+}
+
+.end-heading{
+  font-size: 3rem;
+}
+.endsentence{
+  font-size: 2.4rem;
+}
+
+  .profile{
+    font-size: 2rem;
+  }
+
+.testbutton{
+  height: 90px;
+  line-height: 90px;
+  width: 300px;
+}
+
+
+  /* PORTFOLIO........................ */
+
+
+
+  .cloud1portfolio{
+    margin-left: -11%;
+  }
+
+
+.topcontainerportfolio{
+  height: 100rem;
+}
+
+.mountainport{
+  z-index: 2;
+  position:absolute;
+  top: 71rem;
+  right: 9%;
+  width: 80%;
+}
+
+
+.portfolioheading{
+  position: relative;
+    top: 540px;
+
+    text-align: center;
+font-size: 8rem;
+}
+
+
+
+  .moon {
+    padding-top: 60px;
+    position: absolute;
+    right: 190px;
+    bottom: 200px;
+    width: 30%;
+  }
+
+  .stars {
+    position: absolute;
+    right: 216px;
+    bottom: 640px;
+    width: 100%;
+
+  font-size: 40px;
+  }
+
+.portfolioheading{
+  font-size: 10rem;
+}
+
+.Portfolio-drop  {
+width: 50%;
+}
+.index-dropper2{
+  padding-top: 1rem;
+  padding-left: 3rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+
+  .cloud2portfolio{
+      margin-left: -27%;
+  }
+
+  .laptop-gif{
+    width: 30%;
+  }
+
+.port-heading{
+  font-size: 3rem;
+
+}
+
+.port-paragraph{
+  font-size: 2.8rem;
+}
+
+#website1{
+ width: 100%;
+height: 100%;
+padding-left: 70px;
+ }
+
+#website2{
+  width: 100%;
+ height: 100%;
+padding-left: 70px;
+}
+
+#website3{
+  width: 100%;
+ height: 100%;
+padding-left: 70px;
+font-weight: bold;
+}
+
+#website4{
+  width: 100%;
+ height: 100%;
+padding-left: 70px;
+}
+
+
+
+.contact-section{
+  font-size: 3.2rem;
+}
+
+
+
+.socials {
+  position: relative;
+  right : 266px;
+  top: 21px;
+  text-decoration: none;
+  font-size: 1.2rem;
+
+  margin: 20px 10px;
+  color: white;
+  padding-top: 10px;
+  text-align: left;
+}
+
+/* ABOUT QUERIES/////////////// */
+.About-dropper{
+  font-size: 1.8rem;
+}
+
+.nav-item{
+
+  font-size: 1.7rem;
+}
+
+
+.MENU3{
+  position:absolute;
+  left: -29rem;
+  top:  -66rem;
+    font-size: 2.4rem;
+    color:black;
+    font-size: 2.8rem;
+}
+
+.navbar-brand2{
+position: relative;
+left: 10rem;
+top: -105rem;
+}
+
+
+.about-me{
+  position: relative;
+    top: 540px;
+    right: -200px;
+    text-align: center;
+font-size: 7rem;
+}
+
+.sunset2 {
+  height: 110rem;
+position: relative;
+right: 20rem;
+}
+
+.subheding{
+padding-top: 560px;
+text-align: center;
+position: relative;
+right: -200px;
+font-size: 2.3rem;
+}
+
+.mountain3 {
+  position:absolute;
+  top: 79.16rem;
+  right: 9%;
+  width: 80%;
+
+}
+
+.Sunshine2 {
+  position: absolute;
+  transform: rotate(330deg);
+  left: 10rem;
+  top: 84rem;
+  width: 30%;
+}
+
+.About-story{
+  font-size: 1.7rem;
+  padding-bottom: 30px;
+}
+
+.About-dropdown{
+
+  padding: 2rem 0rem;
+}
+.About-dropper{
+  font-size: 2rem;
+}
+
+
+/*/////////////////////////// JAVASCRIPT-GAME///////////////////////////////// */
+
+.MENU-java{
+  position: relative;
+    left: -50px;
+  font-size: 2.6rem;
+  color:#d9eeec;
+  margin-left: -150%;
+}
+
+.java-drop{
+  width: 50%;
+
+}
+
+.java-Sunshine{
+  position: absolute;
+  right: 340px;
+  bottom: 255px;
+  width: 30%;
+  transform: rotate(350deg);
+}
+.Javascript-top{
+  height: 110rem;
+}
+
+
+
+
+.java-mountain{
+  position:absolute;
+  top: 81rem;
+  right: 9%;
+  width: 80%;
+}
+
+
+.java-heading{
+  position: relative;
+    top: 540px;
+
+    text-align: center;
+font-size: 8rem;
+}
+
+.cloud2about{
+  padding-right: 370px;
+  padding-top: 650px;
+  width: 60%;
+}
+
+.cloud1java{
+position: relative;
+top: 30rem;
+left: 10rem;
+width: 20%;
+}
+
+.java-menu{
+  width: 50%;
+  padding: 2rem 0rem;
+}
+.java-dropper{
+  font-size: 1.8rem;
+}
+
+
+
+/* MEDIA........................................... */
