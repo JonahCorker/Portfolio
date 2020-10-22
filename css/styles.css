@@ -1,0 +1,753 @@
+html, body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat';
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+.top{
+
+  font-size: 1.2rem;
+  color: #11999E;
+  margin-bottom: 200px;
+}
+
+
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento';
+  font-size: 6rem;
+  margin: 10px 0px 20px 0px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat';
+  font-size: 2rem;
+  color: #11999E;
+  font-weight: normal;
+  margin-top: 20px;
+}
+
+h3 {
+  color: #11999E;
+  font-size: 2rem;
+}
+
+hr {
+  border: dotted;
+  color: #d9eeec;
+  width: 4%;
+  border-bottom: none;
+  margin: 50px auto;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+.navbar-brand {
+  margin-left: 10%;
+  padding: 40px;
+}
+
+.dropper {
+  color: #3c70a4;
+}
+
+.profileboy3 {
+  padding: 1px;
+  border-radius: 100%;
+}
+
+.nav-item {
+  margin-right: 5%;
+  padding: 10px;
+}
+
+.navbar {
+  background-color: #d9eeec;
+}
+
+.navbar .navbar-brand {
+  color: #64b2cd;
+}
+
+.nav-link {
+  position: relative;
+  right: 5rem;
+  color: #3c70a4;
+  font-size: 1.3rem;
+  padding-right: 200px;
+}
+
+.index-menu{
+  background-color: #11999E;
+
+}
+.index-menu:hover{
+  background-color:#d9eeec; ;
+}
+.index-dropper{
+  color: white;
+}
+.index-dropper:hover{
+  color: white;
+  background-color: #11999E;
+}
+
+.lesson-picker {
+  -webkit-transition: all 1s ease;
+  /* Safari and Chrome */
+  -moz-transition: all 1s ease;
+  /* Firefox */
+  -ms-transition: all 1s ease;
+  /* IE 9 */
+  -o-transition: all 1s ease;
+  /* Opera */
+  transition: all 1s ease;
+}
+
+.lesson-picker:hover {
+  -webkit-transform: scale(1.02);
+  /* Safari and Chrome */
+  -moz-transform: scale(1.02);
+  /* Firefox */
+  -ms-transform: scale(1.02);
+  /* IE 9 */
+  -o-transform: scale(1.02);
+  /* Opera */
+  transform: scale(1.07);
+}
+
+
+
+
+
+
+
+
+
+.profileboy3 {
+  height: 72px;
+  width: 72px;
+}
+
+.topcontainer {
+  background-color: #d9eeec;
+  position: relative;
+  padding: 90px 0px 0px 0px;
+  display: block;
+}
+
+.middle-container {
+  margin: 100px 0px;
+}
+
+.bottom-container {
+  background-color: #64b2cd;
+  padding: 40px 0 20px;
+}
+
+.cc {
+  color: white;
+  font-size: 15px;
+  padding-top: 20px;
+}
+
+.greeting {
+  font-size: 2.6rem;
+}
+
+.aka {
+  padding-bottom: 15px;
+}
+
+.intro {
+  width: 40%;
+  margin: auto;
+  font-size: 1.9rem;
+  padding-top: 20px;
+}
+
+.profileboy {
+  border-radius: 100px;
+  width: 170px;
+  height: 170px;
+}
+
+.profile {
+  text-align: center;
+  padding: 20px 0px 60px 0px
+}
+
+.skills-heading {
+  font-size: 2.4rem;
+  ;
+}
+
+.skill-row {
+  padding-top: 30px;
+}
+
+.skills {
+  padding: 30px 0px 0px 0px;
+}
+
+.skillsheading {
+  padding-bottom: 40px;
+  font-family: "Montserrat";
+}
+
+.profileboy2 {
+  border-radius: 100px;
+  width: 38%;
+  float: left;
+  padding-right: 40px;
+  padding-bottom: 40px;
+}
+
+.skill-row {
+  width: 60%;
+  margin: 24px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 5px;
+}
+
+.design-line {
+  padding-left: 30px;
+}
+
+.monitor {
+  float: right;
+  padding: 30px
+}
+
+.cloud1 {
+  position: absolute;
+  top: 40px;
+  left: 850px;
+}
+
+.cloud2 {
+  position: absolute;
+  top: 200px;
+  left: 320px;
+}
+
+.mountain {
+  position: relative;
+}
+
+.Sunshine {
+  position: absolute;
+  right: 420px;
+  bottom: 140px;
+  width: 17%;
+}
+
+.contact {
+  width: 60%;
+  margin: 50px auto 10px;
+  line-height: 2;
+}
+
+.contact-me {
+  padding: 0 0 5rem;
+  ;
+}
+
+.testbutton {
+  -moz-box-shadow: inset 0px 1px 0px 0px #c0f8fa;
+  -webkit-box-shadow: inset 0px 1px 0px 0px #c0f8fa;
+  box-shadow: inset 0px 1px 0px 0px #c0f8fa;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #7aa0ff), color-stop(1, #25e1fa));
+  background: -moz-linear-gradient(center top, #7aa0ff 5%, #25e1fa 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7aa0ff', endColorstr='#25e1fa');
+  background-color: #7aa0ff;
+  -webkit-border-top-left-radius: 11px;
+  -moz-border-radius-topleft: 11px;
+  border-top-left-radius: 11px;
+  -webkit-border-top-right-radius: 11px;
+  -moz-border-radius-topright: 11px;
+  border-top-right-radius: 11px;
+  -webkit-border-bottom-right-radius: 11px;
+  -moz-border-radius-bottomright: 11px;
+  border-bottom-right-radius: 11px;
+  -webkit-border-bottom-left-radius: 11px;
+  -moz-border-radius-bottomleft: 11px;
+  border-bottom-left-radius: 11px;
+  text-indent: 0;
+  border: 2px solid #52bbeb;
+  display: inline-block;
+  color: #ffffff;
+  font-family: "Montserrat"sans-serif;
+  font-size: 21px;
+  font-weight: bold;
+  font-style: normal;
+  height: 80px;
+  line-height: 70px;
+  width: 250px;
+  text-decoration: none;
+}
+
+.testbutton:hover {
+  text-decoration: none;
+  text-align: center;
+  text-shadow: 1px 1px 0px #54b0cc;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #25e1fa), color-stop(1, #7aa0ff));
+  background: -moz-linear-gradient(center top, #25e1fa 5%, #7aa0ff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#25e1fa', endColorstr='#7aa0ff');
+  background-color: #25e1fa;
+  color: white;
+}
+
+/* .......................Portfolio........................... */
+.Portfolio-drop{
+  background-color: #66BFBF;
+  padding: 1rem 0rem;
+
+}
+.Portfolio-drop:hover{
+  background-color: #d9eeec;
+
+}
+
+
+.index-dropper2{
+  color: white;
+  }
+.index-dropper2:hover{
+  color: #66BFBF;
+  background-color: #d9eeec;
+
+}
+
+
+.topcontainerportfolio {
+  background-color: #16213e;
+  position: relative;
+  padding: 90px 0px 0px 0px;
+  display: block;
+}
+
+.cloud1portfolio {
+  position: absolute;
+  top: 40px;
+  left: 850px;
+}
+
+.portfolioheading {
+  position: relative;
+}
+
+.glowing {
+  color: white;
+}
+
+.stars {
+  position: absolute;
+  right: 193px;
+  bottom: 63px;
+  width: 80%
+}
+
+.portfolioheading {
+  font-size: 7rem;
+  padding-bottom: 30px;
+  color:
+}
+
+.cloud2portfolio {
+  position: absolute;
+  top: 200px;
+  left: 320px;
+  bottom: 400px;
+  margin-bottom: 50px;
+}
+
+.mountainport {
+  position: relative;
+  right: -12px;
+}
+
+.moon {
+  padding-top: 30px;
+  position: absolute;
+  right: 382px;
+  bottom: 150px;
+  width: 20%;
+}
+
+.laptop-gif {
+  border-radius: 100%;
+  padding: 20px 0px 20px 0px;
+  width: 16%;
+}
+
+.middleportfolio-container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.port-heading {
+  padding-left: 27%;
+  padding-right: 27%;
+  font-weight: 600;
+  letter-spacing: 10%;
+}
+
+.port-paragraph {
+  padding: 3% 20% 5% 20%;
+}
+
+.second-portfoliocontainer {
+  background-color: inherit;
+}
+
+#website1 {
+  text-align: center;
+  padding: 2% 21%;
+  background-color: #ff4c68;
+  border-collapse: collapse;
+}
+
+#website2 {
+  background-color: #142850;
+  text-align: center;
+  padding: 2% 21%;
+  border-collapse: collapse;
+}
+
+#website3 {
+  text-align: center;
+  padding: 2% 21%;
+  background-color: #e8e4e1;
+}
+
+#website4 {
+  text-align: center;
+  padding: 2% 21%;
+  background-color: #ffc38b;
+}
+
+.card-text {
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
+.T-D {
+  color: white;
+  background-color: #ff4c68;
+  padding-bottom: 7rem;
+  padding-top: 7rem
+}
+
+.D-D {
+  color: white;
+  background-color: #142850;
+  padding-bottom: 2rem;
+  padding-top: 3rem
+}
+
+.W-D {
+  color: black;
+  background-color: #e8e4e1;
+  padding-bottom: 2rem;
+  padding-top: 3rem;
+  font-weight: bold;
+}
+
+.C-D {
+  color: black;
+  background-color: #ffc38b;
+  padding-bottom: 2rem;
+  padding-top: 3rem;
+  font-weight: bold;
+}
+
+.portsite3 {
+  background-color: #e8e4e1;
+}
+
+.Tindog-button {
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-top: 1em;
+  padding-bottom: 0.9em;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.Design-button {
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-top: 1em;
+  padding-bottom: 0.9em;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.Wordpress-button {
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-top: 1em;
+  padding-bottom: 0.9em;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.Wordpress-button {
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-top: 1em;
+  padding-bottom: 0.9em;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+#contactsection2 {
+  padding-top: 5%;
+}
+
+.contact-section {
+  font-weight: 700%;
+  font-size: 2rem;
+}
+
+.endsentence2 {
+  padding-top: 3%;
+}
+
+.navbar-toggler-icon {
+  font-size: 2.8rem;
+  color: #66BFBF;
+  margin-left: -128%;
+}
+
+/* ///////////////////////////////////ABOUT STYLES////////////////////////////////// */
+.About-row{
+  background-color:#f6830f;
+  color: black;
+}
+.Aboutme{
+  color: black;
+}
+.bhd{
+  color: black;
+  padding-bottom: 4rem;
+}
+.About-dropdown{
+  background-color: #66BFBF;
+  padding: 1rem 0rem;
+}
+.MENU3{
+  color: black;
+  position: relative;
+  right: 1.2rem;
+}
+.about-link{
+  color: black;
+  font-size: 1.5rem;
+}
+
+.about-dropper{
+  font-size: 1.2rem;
+}
+
+.about-dropper:hover{
+background-color: #fca652;
+
+}
+
+.mountainabout {
+  position: relative;
+}
+
+
+.Sunshineabout {
+  position: absolute;
+  right: 640px;
+  bottom: 120px;
+  width: 17%;
+  transform: rotate(330deg);
+}
+
+
+.Bio{
+  padding-top: 2rem;
+  padding-bottom: 30px;
+  font-size: 50px;
+}
+
+.quote{
+  color: #17a2b8;
+  padding: 20px 10px;
+
+}
+
+.About-Heading {
+  position: absolute;
+  top: 26rem;
+  right: 300px;
+}
+
+.about-me {
+
+  color: black;
+  font-weight: 2px;
+}
+
+/* BROKE CODE */
+.About-story {
+
+  padding-top: 2%;
+  padding-left: 9%;
+  padding-right: 9%;
+  font-weight: 400;
+  font-size: 1.3rem;
+  letter-spacing: .02em;
+  line-height: 1.9em;
+  color: #454545;
+}
+
+/* BROKE CODE */
+
+/* /////////////////////////////////JAVASCRIPT GAMES/////////////////////// */
+
+.jav-link{
+  color: white;
+}
+
+.java-menu {
+  padding: 1rem 0rem;
+  background-color: #d9eeec;
+}
+.java-menu:hover{
+background-color: #11999E;
+}
+
+.java-dropper {
+  color: #11999E;
+}
+.java-dropper:hover{
+  color: white;
+  background-color:  #11999E;
+}
+
+.java-Sunshine{
+  position: absolute;
+  right: 470px;
+  bottom: 170px;
+  width: 17%;
+  transform: rotate(350deg);
+
+}
+
+
+.java-heading{
+  color:white;
+  padding-bottom: 3rem;
+}
+
+
+.java-mountain{
+position: relative;
+right: 8px;
+
+}
+
+.cloud2about{
+  position: relative;
+  left: -1rem;
+  top: -9rem;
+}
+
+.Javascript-top{
+  background-color: #28abb9;
+
+
+  display: block;
+}
+
+
+#lessons {
+  padding: 2rem 5rem 9rem 9rem;
+  text-align: center;
+}
+
+.drums{
+  height: 10rem;
+}
+.dicee{
+  height: 9.8rem;
+}
+.simon{
+  height: 9.7rem;
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 1.6rem;
+}
+
+.lesson-heading {
+  padding-bottom: 6rem;
+  font-weight: bold;
+  font-size: 3.2rem;
+  padding-right: 4rem;
+  padding-top: 5rem;
+}
+
+.buttons {
+  background-color: #132743;
+  padding: 1rem;
+}
+.buttons:hover{
+  background-color: #d7385e;
+}
+
+.button-heading {
+  color: white;
+}
+
+.button-two {
+  background-color: #373a40;
+  color: white;
+  padding: 1rem;
+}
+.button-two:hover{
+  background-color: #03c4a1;
+  color: white;
+}
+
+
+
+.second-btn {
+  color: white;
+}
+
+.button-three {
+  background-color: #132743;
+  padding: 1rem;
+}
+.button-three:hover {
+  background-color: #ffe05d;
+}
+
+
+.third-btn {
+  color: white;
+
+
+/*//////////////////////////////// ANIMATION/////////////////////////////////////// */
